@@ -1,0 +1,1 @@
+function ಠ_ಠ83(ಠ_ಠ84,ಠ_ಠ82){var ಠ_ಠ81=ಠ_ಠ84+ಠ_ಠ82;return console.log("A soma de "+ಠ_ಠ84+"ಠ_ಠ82"+ಠ_ಠ82+"é"+ಠ_ಠ81),ಠ_ಠ81}let numero1=5,numero2=10;ಠ_ಠ83(numero1,numero2);
